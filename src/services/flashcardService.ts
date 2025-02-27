@@ -1,17 +1,12 @@
-import { Flashcard } from '@/types/flashcard';
+import { Flashcard, FlashcardSetMetadata } from '@/types/flashcard';
 
-export const getFlashcardsForTopic =
-  async (topic: string | string[]): Promise<Flashcard[]> => {
-    if (typeof topic === 'string') {
-      return await importData(topic);
-    }
-
-    const cards = await Promise.all(topic.map(importData));
-    return cards.flat();
+export const getFlashcardSet =
+  async (setName: keyof FlashcardSetMetadata): Promise<Flashcard[]> => {
+      return await importData(setName);
   };
 
 const importData =
-  async (topic: string) => {
-    const data = await import(`./data/${topic}.json`);
+  async (topic: keyof FlashcardSetMetadata) => {
+    const data = await import('../data/bones.json');
     return data.default as Flashcard[];
-  };
+}

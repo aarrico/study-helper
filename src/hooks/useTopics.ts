@@ -10,7 +10,7 @@ const useTopics = () => {
     const fetchTopics = async () => {
       setLoading(true);
       try {
-        const data = await getTopics();
+        const data = getTopics();
         setTopics(data);
       } catch (err: any) {
         console.error('Failed to fetch topics: ', err.message || '');

@@ -1,0 +1,620 @@
+[
+  {
+    "sideA": "What is the function of bones related to support?",
+    "sideB": "Bones act as the body's internal framework, providing support and structure.",
+    "subtopic": "Support",
+    "topic": "Functions of Bones"
+  },
+  {
+    "sideA": "How do bones contribute to movement?",
+    "sideB": "Bones serve as levers for skeletal muscles, enabling body movement.",
+    "subtopic": "Movement",
+    "topic": "Functions of Bones"
+  },
+  {
+    "sideA": "What is the protective function of bones?",
+    "sideB": "Bones protect internal organs (e.g., the axial skeleton protects enclosed structures).",
+    "subtopic": "Protection",
+    "topic": "Functions of Bones"
+  },
+  {
+    "sideA": "What do bones store?",
+    "sideB": "Bones store minerals (mainly calcium and phosphate) and triglycerides (fat) in bone marrow cavities.",
+    "subtopic": "Storage",
+    "topic": "Functions of Bones"
+  },
+  {
+    "sideA": "What is hematopoiesis, and how are bones involved?",
+    "sideB": "Hematopoiesis is blood cell formation, which occurs in bones.",
+    "subtopic": "Blood Cell Formation",
+    "topic": "Functions of Bones"
+  },
+  {
+    "sideA": "What hormone do bones produce?",
+    "sideB": "Bones produce osteocalcin.",
+    "subtopic": "Hormone Production",
+    "topic": "Functions of Bones"
+  },
+  {
+    "sideA": "How many named bones are in the adult human skeleton?",
+    "sideB": "206",
+    "subtopic": "Number",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What are the two major divisions of the skeleton?",
+    "sideB": "Axial skeleton and Appendicular skeleton",
+    "subtopic": "Divisions",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What does the axial skeleton consist of?",
+    "sideB": "Skull, vertebral column, and rib cage.",
+    "subtopic": "Axial Skeleton",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What is the primary function of axial skeleton bones?",
+    "sideB": "Protect, support, or carry other body parts.",
+    "subtopic": "Axial Skeleton",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What are the two parts of the skull?",
+    "sideB": "Cranial and facial bones",
+    "subtopic": "Skull",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What is the function of cranial bones versus facial bones?",
+    "sideB": "Cranial bones protect the brain; facial bones form the face and provide muscle attachment points.",
+    "subtopic": "Skull",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What are the regions of the vertebral column?",
+    "sideB": "Cervical, thoracic, lumbar, sacrum, and coccyx.",
+    "subtopic": "Vertebral Column",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What does the thoracic cage consist of?",
+    "sideB": "Ribs and sternum.",
+    "subtopic": "Thoracic Cage",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What does the appendicular skeleton include?",
+    "sideB": "Bones of the upper and lower limbs and the girdles (shoulder and hip bones).",
+    "subtopic": "Appendicular Skeleton",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What is the primary function of the bones of the limbs",
+    "sideB": "Facilitate mobility.",
+    "subtopic": "Appendicular Skeleton",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What bones make up the shoulder girdle?",
+    "sideB": "Clavicles and scapulae.",
+    "subtopic": "Shoulder Girdle",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "Name the bones of the upper extremities.",
+    "sideB": "Humerus, ulna, radius, carpal bones, metacarpals, and phalanges.",
+    "subtopic": "Upper Extremities",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What bones make up the pelvic girdle?",
+    "sideB": "Coxal bones.",
+    "subtopic": "Pelvic Girdle",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "Name the bones of the lower extremities.",
+    "sideB": "Femur, patella, tibia, fibula, tarsals, metatarsals, and phalanges.",
+    "subtopic": "Lower Extremities",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What are the four classifications of bones by shape?",
+    "sideB": "Long bones, short bones, flat bones, and irregular bones.",
+    "subtopic": "Classification by Shape",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "Describe the shape and give examples of long bones.",
+    "sideB": "Longer than they are wide; e.g., humerus, femur, phalanges.",
+    "subtopic": "Long Bones",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "Describe the shape and give examples of short bones.",
+    "sideB": "Cube-shaped; e.g., talus, carpal bones.",
+    "subtopic": "Short Bones",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "Describe the shape and give examples of flat bones.",
+    "sideB": "Thin, flattened, and often curved; e.g., skull bones, ribs, sternum.",
+    "subtopic": "Flat Bones",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "Describe the shape and give examples of irregular bones.",
+    "sideB": "Complex shapes; e.g., vertebrae, hip bones.",
+    "subtopic": "Irregular Bones",
+    "topic": "Classification of Bones"
+  },
+  {
+    "sideA": "What are the two types of bone tissue in the general structure of all bones?",
+    "sideB": "Outer compact bone and inner spongy bone.",
+    "subtopic": "General Structure",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Bones are organs because they contain various tissues, including...?",
+    "sideB": "Osseous tissue, nervous tissue, cartilage, dense connective tissue, muscle, and epithelial tissues",
+    "subtopic": "General Structure",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Describe the appearance of compact bone.",
+    "sideB": "Dense, smooth, and solid outer layer.",
+    "subtopic": "Gross Anatomy - Compact Bone",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Describe the structure of spongy bone.",
+    "sideB": "Internal layer with a honeycomb structure of trabeculae.",
+    "subtopic": "Gross Anatomy - Spongy Bone",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What fills the spaces between trabeculae in spongy bone",
+    "sideB": "red or yellow bone marrow",
+    "subtopic": "Gross Anatomy - Spongy Bone",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Describe the structure of flat bones.",
+    "sideB": "Two thin plates of compact bone enclosing a spongy bone layer (diploë).",
+    "subtopic": "Gross Anatomy - Flat Bones",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the diaphysis of a long bone?",
+    "sideB": "The tubular shaft forming the long axis, made of compact bone.",
+    "subtopic": "Long Bones - Diaphysis",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are the epiphyses of a long bone?",
+    "sideB": "The ends of the bone, with compact bone externally and spongy bone internally.",
+    "subtopic": "Long Bones - Epiphyses",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the periosteum?",
+    "sideB": "Double-layered membrane covering bone surfaces (except joints).",
+    "subtopic": "Membranes - Periosteum",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Describe the two layers of the Periosteum",
+    "sideB": "Outer fibrous layer (dense irregular connective tissue) and inner osteogenic layer (osteoprogenitor cells).",
+    "subtopic": "Membranes - Periosteum",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "How do nerves and blood vessels interact with the periosteum and diaphysis?",
+    "sideB": "Richly supplied with nerve fibers and blood vessels entering via a nutrient foramen.",
+    "subtopic": "Membranes - Periosteum",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the endosteum?",
+    "sideB": "Delicate connective tissue membrane covering internal bone surfaces.",
+    "subtopic": "Membranes - Endosteum",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What type of cells are found in both the inner periosteum and endosteum layer?",
+    "sideB": "Osteoprogenitor Cells",
+    "subtopic": "Membranes",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is articular cartilage?",
+    "sideB": "Hyaline cartilage covering joint surfaces, cushioning and absorbing stress.",
+    "subtopic": "Articular Cartilage",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the medullary cavity, and what does it contain in adults?",
+    "sideB": "Hollow central cavity in the diaphysis, filled with yellow bone marrow (fat).",
+    "subtopic": "Medullary Cavity",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the medullary cavity, and what does it contain in infants?",
+    "sideB": "red bone marrow",
+    "subtopic": "Medullary Cavity",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the epiphyseal line?",
+    "sideB": "Remnant of the epiphyseal plate (growth plate).",
+    "subtopic": "Epiphyseal Line",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are bone markings?",
+    "sideB": "Projections, depressions, and openings on bone surfaces.",
+    "subtopic": "Bone Markings",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the purpose of bone projection markings?",
+    "sideB": "Serve as sites for muscle/ligament attachment or help form joints.",
+    "subtopic": "Bone Markings - Projections",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Name some examples of projection bone markings.",
+    "sideB": "Tuberosities, crests, trochanters, lines, tubercles, epicondyles, spines, processes, heads, facets, condyles, rami.",
+    "subtopic": "Bone Markings - Projections",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the purpose of bone depression and opening markings?",
+    "sideB": "Serve as passageways for blood vessels and nerves.",
+    "subtopic": "Bone Markings - Depressions and Openings",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "Name some examples of depression and opening bone markings.",
+    "sideB": "Grooves, fissures, foramina, notches, meatuses, sinuses, fossae.",
+    "subtopic": "Bone Markings - Depressions and Openings",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are the five major cell types in bone tissue?",
+    "sideB": "Osteoprogenitor cells, osteoblasts, osteocytes, bone lining cells, and osteoclasts.",
+    "subtopic": "Microscopic Anatomy - Cells of Bone Tissue",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are osteoprogenitor cells?",
+    "sideB": "Mitotically active stem cells that differentiate into osteoblasts.",
+    "subtopic": "Microscopic Anatomy - Osteoprogenitor Cells",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are osteoblasts?",
+    "sideB": "Bone-forming cells that secrete the bone matrix (osteoid).",
+    "subtopic": "Microscopic Anatomy - Osteoblasts",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are osteocytes, and what is their function?",
+    "sideB": "Mature bone cells in lacunae that monitor and maintain the bone matrix.",
+    "subtopic": "Microscopic Anatomy - Osteocytes",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are bone lining cells?",
+    "sideB": "Flat cells on bone surfaces that help maintain the bone matrix.",
+    "subtopic": "Microscopic Anatomy - Bone Lining Cells",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are osteoclasts?",
+    "sideB": "Bone-resorbing cells that break down bone matrix.",
+    "subtopic": "Microscopic Anatomy - Osteoclasts",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the structural unit of compact bone?",
+    "sideB": "Osteon (Haversian system).",
+    "subtopic": "Compact Bone - Osteon",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are lamellae in compact bone?",
+    "sideB": "Concentric rings of bone matrix within an osteon.",
+    "subtopic": "Compact Bone - Lamellae",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is the Haversian (central) canal?",
+    "sideB": "Canal running through the core of each osteon, containing blood vessels and nerve fibers.",
+    "subtopic": "Compact Bone - Haversian Canal",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are Volkmann's (perforating) canals?",
+    "sideB": "Canals connecting blood/nerve supply from periosteum to Haversian canals and medullary cavity.",
+    "subtopic": "Compact Bone - Volkmann's Canals",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are lacunae in compact bone?",
+    "sideB": "Small cavities at lamellae junctions containing osteocytes.",
+    "subtopic": "Compact Bone - Lacunae",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are canaliculi?",
+    "sideB": "Hairlike canals connecting lacunae and the Haversian canal.",
+    "subtopic": "Compact Bone - Canaliculi",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "How do nutrients reach osteocytes in spongy bone?",
+    "sideB": "Nutrients diffuse through canaliculi from capillaries in the endosteum.",
+    "subtopic": "Spongy Bone",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are the organic components of bone?",
+    "sideB": "Bone cells and osteoid (ground substance and collagen fibers).",
+    "subtopic": "Chemical Composition - Organic",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is osteoid, and what is its function",
+    "sideB": "The organic part of the bone matrix. Contributes to tensile strength and flexibility.",
+    "subtopic": "Chemical Composition - Organic",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What are the inorganic components of bone?",
+    "sideB": "Hydroxyapatites (mineral salts), mainly calcium phosphate crystals.",
+    "subtopic": "Chemical Composition - Inorganic",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What percentage of bone mass do inorganic components make up, and what is their function?",
+    "sideB": "65%; responsible for bone hardness and resistance to compression.",
+    "subtopic": "Chemical Composition - Inorganic",
+    "topic": "Bone Structure"
+  },
+  {
+    "sideA": "What is intramembranous ossification?",
+    "sideB": "Bone development from a fibrous membrane.",
+    "subtopic": "Intramembranous Ossification",
+    "topic": "Bone Development (Ossification)"
+  },
+  {
+    "sideA": "Which bones are formed by intramembranous ossification?",
+    "sideB": "Most skull bones and the clavicles.",
+    "subtopic": "Intramembranous Ossification",
+    "topic": "Bone Development (Ossification)"
+  },
+  {
+    "sideA": "What is endochondral ossification?",
+    "sideB": "Bone development by replacing hyaline cartilage.",
+    "subtopic": "Endochondral Ossification",
+    "topic": "Bone Development (Ossification)"
+  },
+  {
+    "sideA": "Which bones are formed by endochondral ossification?",
+    "sideB": "Most of the bones of the skeleton.",
+    "subtopic": "Endochondral Ossification",
+    "topic": "Bone Development (Ossification)"
+  },
+  {
+    "sideA": "What is bone remodeling?",
+    "sideB": "Continuous process of bone deposit and resorption.",
+    "subtopic": "Bone Remodeling",
+    "topic": "Bone Remodeling and Repair"
+  },
+  {
+    "sideA": "What factors regulate bone remodeling?",
+    "sideB": "Genetic factors, hormones, and mechanical stress.",
+    "subtopic": "Bone Remodeling",
+    "topic": "Bone Remodeling and Repair"
+  },
+  {
+    "sideA": "What are the stages of bone repair?",
+    "sideB": "Inflammation (hematoma), fibrocartilaginous callus, bony callus, remodeling.",
+    "subtopic": "Bone Repair",
+    "topic": "Bone Remodeling and Repair"
+  },
+  {
+    "sideA": "What is osteoporosis?",
+    "sideB": "Disease with decreased bone mass/density, increasing fracture risk.",
+    "subtopic": "Osteoporosis",
+    "topic": "Bone Disorders"
+  },
+  {
+    "sideA": "What is Paget's disease?",
+    "sideB": "Characterized by excessive/haphazard bone deposit and resorption, leading to weak bone.",
+    "subtopic": "Paget's Disease",
+    "topic": "Bone Disorders"
+  },
+  {
+    "sideA": "What are fractures?",
+    "sideB": "Breaks in bones.",
+    "subtopic": "Fractures",
+    "topic": "Bone Disorders"
+  },
+  {
+    "sideA": "Name some common types of bone fractures.",
+    "sideB": "Comminuted, compression, depressed, impacted, spiral, and greenstick fractures.",
+    "subtopic": "Fractures",
+    "topic": "Bone Disorders"
+  },
+  {
+    "sideA": "What nutritional factors are essential for bone health?",
+    "sideB": "Adequate intake of calcium, vitamin D, and protein.",
+    "subtopic": "Nutrition",
+    "topic": "Factors Affecting Bone Health"
+  },
+  {
+    "sideA": "Which hormones regulate blood calcium levels and influence bone remodeling?",
+    "sideB": "Parathyroid hormone (PTH) and calcitonin.",
+    "subtopic": "Hormones",
+    "topic": "Factors Affecting Bone Health"
+  },
+  {
+    "sideA": "How does weight-bearing exercise affect bone health?",
+    "sideB": "Stimulates bone remodeling and helps maintain bone density.",
+    "subtopic": "Weight-Bearing Exercise",
+    "topic": "Factors Affecting Bone Health"
+  },
+  {
+    "sideA": "How does genetics affect bone density",
+    "sideB": "Plays a major role in determining a person's bone density.",
+    "subtopic": "Genetics",
+    "topic": "Factors Affecting Bone Health"
+  },
+  {
+    "sideA": "Define Compact Bone.",
+    "sideB": "The dense, outer layer of bone that appears smooth and solid.",
+    "subtopic": "Compact Bone",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Spongy Bone (Trabecular Bone).",
+    "sideB": "The internal layer of bone with a honeycomb structure.",
+    "subtopic": "Spongy Bone",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Diaphysis.",
+    "sideB": "The shaft of a long bone.",
+    "subtopic": "Diaphysis",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Epiphysis.",
+    "sideB": "The end of a long bone.",
+    "subtopic": "Epiphysis",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Periosteum.",
+    "sideB": "The double-layered membrane that covers the external surface of bones.",
+    "subtopic": "Periosteum",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Endosteum.",
+    "sideB": "The delicate connective tissue membrane that covers internal bone surfaces.",
+    "subtopic": "Endosteum",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Articular Cartilage.",
+    "sideB": "Hyaline cartilage that covers the joint surfaces of bones.",
+    "subtopic": "Articular Cartilage",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Medullary Cavity.",
+    "sideB": "The hollow, central cavity in the diaphysis of a long bone.",
+    "subtopic": "Medullary Cavity",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Epiphyseal Line.",
+    "sideB": "The remnant of the epiphyseal plate in adult bones.",
+    "subtopic": "Epiphyseal Line",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Osteoprogenitor Cells.",
+    "sideB": "Stem cells that differentiate into osteoblasts.",
+    "subtopic": "Osteoprogenitor Cells",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Osteoblasts.",
+    "sideB": "Bone-forming cells.",
+    "subtopic": "Osteoblasts",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Osteocytes.",
+    "sideB": "Mature bone cells.",
+    "subtopic": "Osteocytes",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Osteoclasts.",
+    "sideB": "Bone-resorbing cells.",
+    "subtopic": "Osteoclasts",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Osteon (Haversian System).",
+    "sideB": "The structural unit of compact bone.",
+    "subtopic": "Osteon",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Lamellae.",
+    "sideB": "Concentric rings of bone matrix in an osteon.",
+    "subtopic": "Lamellae",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Haversian Canal (Central Canal).",
+    "sideB": "The canal running through the core of each osteon.",
+    "subtopic": "Haversian Canal",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Volkmann's Canals (Perforating Canals).",
+    "sideB": "Canals that connect the blood and nerve supply of the periosteum to the Haversian canals and the medullary cavity.",
+    "subtopic": "Volkmann's Canals",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Lacunae.",
+    "sideB": "Small cavities in bone that contain osteocytes.",
+    "subtopic": "Lacunae",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Canaliculi.",
+    "sideB": "Hairlike canals connecting lacunae to each other and the Haversian canal.",
+    "subtopic": "Canaliculi",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Trabeculae.",
+    "sideB": "Needle-like or flat pieces forming spongy bone.",
+    "subtopic": "Trabeculae",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Hydroxyapatites.",
+    "sideB": "Mineral salts responsible for bone hardness and resistance to compression.",
+    "subtopic": "Hydroxyapatites",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Ossification.",
+    "sideB": "The process of bone formation.",
+    "subtopic": "Ossification",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Resorption.",
+    "sideB": "The process of breaking down bone matrix.",
+    "subtopic": "Resorption",
+    "topic": "Vocabulary"
+  },
+  {
+    "sideA": "Define Hematopoiesis.",
+    "sideB": "The process of blood cell formation.",
+    "subtopic": "Hematopoiesis",
+    "topic": "Vocabulary"
+  }
+]
