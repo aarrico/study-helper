@@ -11,21 +11,15 @@ export default function Flashcards() {
   const [showSideB, setShowSideB] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  console.log('params.topic:', params.topic);
-
   useEffect(() => {
-    console.log('Starting to fetch flashcards for topic:', params.topic);
-
     const loadCards = async () => {
       setLoading(true);
       try {
-        console.log('starting to load cards...');
         const cards = await getFlashcardSet(params.topic);
-        console.log('fetched:', cards);
         if (!cards) {
           throw new Error('No flashcards found');
         }
-        setCurrentIdx(0);
+        
         setFlashcards(cards);
       } catch (err) {
         console.error(err);
@@ -36,6 +30,8 @@ export default function Flashcards() {
     };
 
     loadCards();
+    setCurrentIdx(0);
+    setShowSideB(false);
   }, [params.topic]);
 
   const handleFlipCard = () => {
